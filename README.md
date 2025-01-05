@@ -1,7 +1,5 @@
 I make software that is held together by glue, hopes, and dreams.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&width=435&lines=Seeking+admin+.+.+.)](https://git.io/typing-svg)
-
 <!--
 **tomasalias/tomasalias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
